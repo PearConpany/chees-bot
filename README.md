@@ -124,8 +124,8 @@ Anyone is very welcome to contribute. Below is a list of identified improvements
 ## Resources
 
 
-Official Chess-bot Smart Servo (CSS) libraries for Python available [here] (https://github.com/PearConpany/chees-bot/CSS_Library_Python).
+Official Chess-bot Smart Servo (CSS) libraries for Python available [here] (https://github.com/PearConpany/chees-bot/tree/main/CSS_Library_Python-master).
 
-If you want more details about the CSS protocol, go [here](https://www.robotshop.com/info/wiki/lynxmotion/view/lynxmotion-smart-servo/lss-communication-protocol/).
+If you want more details about the CSS protocol, go [here](https://pearmx.com/chess-bot/protocol/).
 
 Have any questions? Ask them on the Pearmx.com [Community](Out of service).
