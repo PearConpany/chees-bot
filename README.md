@@ -51,7 +51,7 @@ To start using this project, proceed to the standard *clone* procedure:
 
 ```bash
 cd <some_directory>
-git clone https://github.com/Robotics-Technology/Chess-Robot.git
+git clone https://github.com/PearConpany/chees-bot.git
 ```
 
 ## Install
