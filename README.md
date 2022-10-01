@@ -2,9 +2,9 @@
   <img src="https://github.com/Robotics-Technology/Chess-Robot/blob/master/interface_images/lss_arm_cb.png" width="350px"/>
 </p>
 
-# CSS Chess Robot
+# LSS Chess Robot
 
-The CSS Chess Robot is a robotic arm that can play chess against you. This is a free and open source project that integrates aspects of robotics, computer vision, and of course chess.
+The LSS Chess Robot is a robotic arm that can play chess against you. This is a free and open source project that integrates aspects of robotics, computer vision, and of course chess.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ The CSS Chess Robot is a robotic arm that can play chess against you. This is a 
 
 ### Hardware
 
-- Robot arm compatible with raspberry or windows
+- Lynxmotion Smart Servo (LSS) 4 DoF Robotic Arm
 - Raspberry Pi or Windows PC
 - Display
 - Keyboard 
@@ -51,7 +51,7 @@ To start using this project, proceed to the standard *clone* procedure:
 
 ```bash
 cd <some_directory>
-git clone https://github.com/PearConpany/chees-bot.git
+git clone https://github.com/Robotics-Technology/Chess-Robot.git
 ```
 
 ## Install
@@ -101,11 +101,12 @@ python Interface.py
 
 ## Authors
 
-- [Elian Alfonso](http://elian.pearmx.com)
+- [Geraldine Barreto](http://github.com/geraldinebc)
+- [Eduardo Nunes](https://github.com/EduardoFNA)
 
 ## License
 
-CSS Chess Robot is available under the GNU General Public License v3.0
+LSS Chess Robot is available under the GNU General Public License v3.0
 
 ## Contributing
 
@@ -119,13 +120,18 @@ Anyone is very welcome to contribute. Below is a list of identified improvements
 ## Limitations
 
 - The chessboard is limited by the reach of the arm and the squares need to be big enough so the arm gripper doesn’t stumble upon adjacent pieces.
-- This project was specifically made to be used with CSS smart servo motors using the CSS serial communication protocol so if you want to use it for a different robotic arm you will need to change how the servos are controlled and change the inverse kinematics parameters to match your specific arm.
+- This project was specifically made to be used with LSS smart servo motors using the LSS serial communication protocol so if you want to use it for a different robotic arm you will need to change how the servos are controlled and change the inverse kinematics parameters to match your specific arm.
 
 ## Resources
 
+Every module of the project is explained in the tutorial series available [here](https://www.robotshop.com/community/robots/show/chess-playing-robot/).
 
-Official Chess-bot Smart Servo (CSS) libraries for Python available [here] (https://github.com/PearConpany/chees-bot/tree/main/CSS_Library_Python-master).
+Read more about the LSS Robotic Arm in the [wiki](https://www.robotshop.com/info/wiki/lynxmotion/view/servo-erector-set-robots-kits/ses-v2-robots/ses-v2-arms/lss-4dof-arm/).
 
-If you want more details about the CSS protocol, go [here](https://pearmx.com/chess-bot/protocol/).
+Purchase the LSS arm on [RobotShop](https://www.robotshop.com/en/lynxmotion-smart-servos-articulated-arm.html).
 
-Have any questions? Ask them on the Pearmx.com [Community](Out of service).
+Official Lynxmotion Smart Servo (LSS) libraries for Python available [here](https://github.com/Lynxmotion/LSS_Library_Python).
+
+If you want more details about the LSS protocol, go [here](https://www.robotshop.com/info/wiki/lynxmotion/view/lynxmotion-smart-servo/lss-communication-protocol/).
+
+Have any questions? Ask them on the Robotshop [Community](https://www.robotshop.com/community/).
