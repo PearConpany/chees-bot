@@ -2,9 +2,9 @@
   <img src="https://github.com/Robotics-Technology/Chess-Robot/blob/master/interface_images/lss_arm_cb.png" width="350px"/>
 </p>
 
-# LSS Chess Robot
+# CSS Chess Robot
 
-The LSS Chess Robot is a robotic arm that can play chess against you. This is a free and open source project that integrates aspects of robotics, computer vision, and of course chess.
+The CSS Chess Robot is a robotic arm that can play chess against you. This is a free and open source project that integrates aspects of robotics, computer vision, and of course chess.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ The LSS Chess Robot is a robotic arm that can play chess against you. This is a 
 
 ### Hardware
 
-- Lynxmotion Smart Servo (LSS) 4 DoF Robotic Arm
+- Robot arm compatible with raspberry or windows
 - Raspberry Pi or Windows PC
 - Display
 - Keyboard 
@@ -124,8 +124,8 @@ Anyone is very welcome to contribute. Below is a list of identified improvements
 ## Resources
 
 
-Official Chess-bot Smart Servo (CSS) libraries for Python available [here] (https://github.com/Lynxmotion/LSS_Library_Python).
+Official Chess-bot Smart Servo (CSS) libraries for Python available [here] (https://github.com/PearConpany/chees-bot/CSS_Library_Python).
 
-If you want more details about the LSS protocol, go [here](https://www.robotshop.com/info/wiki/lynxmotion/view/lynxmotion-smart-servo/lss-communication-protocol/).
+If you want more details about the CSS protocol, go [here](https://www.robotshop.com/info/wiki/lynxmotion/view/lynxmotion-smart-servo/lss-communication-protocol/).
 
-Have any questions? Ask them on the Robotshop [Community](https://www.robotshop.com/community/).
+Have any questions? Ask them on the Pearmx.com [Community](Out of service).
